@@ -1,5 +1,5 @@
 #include <iostream>
-#include <C:\Users\Master\source\repos\Candidates\Candidates\classCandidates.h>
+#include "classCandidates.h"
 
 void main()
 

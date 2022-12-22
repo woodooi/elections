@@ -50,7 +50,7 @@ public:
 		bubblesort(candidates);
 		outWinner(candidates);
 	}
-	void bubblesort(Candidate candidates[])
+	void bubble_sort(Candidate candidates[])
 	{
 		for (int i = 0; i < 6; i++)
 			for (int j = 1; j < 6-i; j++)
